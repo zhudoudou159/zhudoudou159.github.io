@@ -1,17 +1,17 @@
 ---
-title: Basicpage template
-author: Your Name
-shortbio: Short bio
+title: 朱豆豆的主页
+author: 朱豆豆
+shortbio: 西北工业大学计算机系硕士生
 description-meta: Short bio for meta-data
 og-url: https://basicpage.github.io
-location: Location, office
-email: noreply@noemail.com
+location: 中国·陕西
+email: 610125200212263930@mail.nwpu.edu.cn
 clickable-email: false
 picture: img/profile.png
 picture-round: false
 side-by-side: true
 disable-dark-mode: false
-pronouns: Pronouns
+pronouns: he/him
 og-picture: https://basicpage.github.io/img/profile.png
 orcid: 0000-0000-0000-0000
 dblp: https://dblp.org/
